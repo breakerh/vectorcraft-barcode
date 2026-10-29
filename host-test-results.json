@@ -1,0 +1,457 @@
+[
+  {
+    "fuel": 7119433,
+    "input": "590123412345",
+    "passed": true,
+    "showText": true,
+    "type": "EAN-13"
+  },
+  {
+    "fuel": 853697,
+    "input": "590123412345",
+    "passed": true,
+    "showText": false,
+    "type": "EAN-13"
+  },
+  {
+    "fuel": 6474004,
+    "input": "5901234123457",
+    "passed": true,
+    "showText": true,
+    "type": "EAN-13"
+  },
+  {
+    "fuel": 854821,
+    "input": "5901234123457",
+    "passed": true,
+    "showText": false,
+    "type": "EAN-13"
+  },
+  {
+    "fuel": 5508048,
+    "input": "9638507",
+    "passed": true,
+    "showText": true,
+    "type": "EAN-8"
+  },
+  {
+    "fuel": 695321,
+    "input": "9638507",
+    "passed": true,
+    "showText": false,
+    "type": "EAN-8"
+  },
+  {
+    "fuel": 5487409,
+    "input": "96385074",
+    "passed": true,
+    "showText": true,
+    "type": "EAN-8"
+  },
+  {
+    "fuel": 694612,
+    "input": "96385074",
+    "passed": true,
+    "showText": false,
+    "type": "EAN-8"
+  },
+  {
+    "fuel": 7511996,
+    "input": "03600029145",
+    "passed": true,
+    "showText": true,
+    "type": "UPC-A"
+  },
+  {
+    "fuel": 848348,
+    "input": "03600029145",
+    "passed": true,
+    "showText": false,
+    "type": "UPC-A"
+  },
+  {
+    "fuel": 7499513,
+    "input": "036000291452",
+    "passed": true,
+    "showText": true,
+    "type": "UPC-A"
+  },
+  {
+    "fuel": 847745,
+    "input": "036000291452",
+    "passed": true,
+    "showText": false,
+    "type": "UPC-A"
+  },
+  {
+    "fuel": 3820420,
+    "input": "425261",
+    "passed": true,
+    "showText": true,
+    "type": "UPC-E"
+  },
+  {
+    "fuel": 559639,
+    "input": "425261",
+    "passed": true,
+    "showText": false,
+    "type": "UPC-E"
+  },
+  {
+    "fuel": 3793276,
+    "input": "04252614",
+    "passed": true,
+    "showText": true,
+    "type": "UPC-E"
+  },
+  {
+    "fuel": 556722,
+    "input": "04252614",
+    "passed": true,
+    "showText": false,
+    "type": "UPC-E"
+  },
+  {
+    "fuel": 4237038,
+    "input": "123453",
+    "passed": true,
+    "showText": true,
+    "type": "UPC-E"
+  },
+  {
+    "fuel": 558869,
+    "input": "123453",
+    "passed": true,
+    "showText": false,
+    "type": "UPC-E"
+  },
+  {
+    "fuel": 4293843,
+    "input": "123454",
+    "passed": true,
+    "showText": true,
+    "type": "UPC-E"
+  },
+  {
+    "fuel": 559395,
+    "input": "123454",
+    "passed": true,
+    "showText": false,
+    "type": "UPC-E"
+  },
+  {
+    "fuel": 4918340,
+    "input": "123455",
+    "passed": true,
+    "showText": true,
+    "type": "UPC-E"
+  },
+  {
+    "fuel": 560447,
+    "input": "123455",
+    "passed": true,
+    "showText": false,
+    "type": "UPC-E"
+  },
+  {
+    "fuel": 3164251,
+    "input": "1425261",
+    "passed": true,
+    "showText": true,
+    "type": "UPC-E"
+  },
+  {
+    "fuel": 557995,
+    "input": "1425261",
+    "passed": true,
+    "showText": false,
+    "type": "UPC-E"
+  },
+  {
+    "fuel": 4221433,
+    "input": "EXAMPLE-12345",
+    "passed": true,
+    "showText": true,
+    "type": "Code 128"
+  },
+  {
+    "fuel": 1288692,
+    "input": "EXAMPLE-12345",
+    "passed": true,
+    "showText": false,
+    "type": "Code 128"
+  },
+  {
+    "fuel": 11362866,
+    "input": "12345678901234567890",
+    "passed": true,
+    "showText": true,
+    "type": "Code 128"
+  },
+  {
+    "fuel": 1129059,
+    "input": "12345678901234567890",
+    "passed": true,
+    "showText": false,
+    "type": "Code 128"
+  },
+  {
+    "fuel": 5593239,
+    "input": "  Example-123  ",
+    "passed": true,
+    "showText": true,
+    "type": "Code 128"
+  },
+  {
+    "fuel": 1416318,
+    "input": "  Example-123  ",
+    "passed": true,
+    "showText": false,
+    "type": "Code 128"
+  },
+  {
+    "fuel": 18736861,
+    "input": "https://example.org/?id=123&mode=test",
+    "passed": true,
+    "showText": true,
+    "type": "Code 128"
+  },
+  {
+    "fuel": 2875439,
+    "input": "https://example.org/?id=123&mode=test",
+    "passed": true,
+    "showText": false,
+    "type": "Code 128"
+  },
+  {
+    "fuel": 3818665,
+    "input": "EXAMPLE-123",
+    "passed": true,
+    "showText": true,
+    "type": "Code 39"
+  },
+  {
+    "fuel": 1496872,
+    "input": "EXAMPLE-123",
+    "passed": true,
+    "showText": false,
+    "type": "Code 39"
+  },
+  {
+    "fuel": 6744968,
+    "input": "ABC 123-.$/+%",
+    "passed": true,
+    "showText": true,
+    "type": "Code 39"
+  },
+  {
+    "fuel": 1693371,
+    "input": "ABC 123-.$/+%",
+    "passed": true,
+    "showText": false,
+    "type": "Code 39"
+  },
+  {
+    "fuel": 3446429,
+    "input": "EXAMPLE-123",
+    "passed": true,
+    "showText": true,
+    "type": "Code 93"
+  },
+  {
+    "fuel": 1149414,
+    "input": "EXAMPLE-123",
+    "passed": true,
+    "showText": false,
+    "type": "Code 93"
+  },
+  {
+    "fuel": 6308652,
+    "input": "ABC 123-.$/+%",
+    "passed": true,
+    "showText": true,
+    "type": "Code 93"
+  },
+  {
+    "fuel": 1267007,
+    "input": "ABC 123-.$/+%",
+    "passed": true,
+    "showText": false,
+    "type": "Code 93"
+  },
+  {
+    "fuel": 6006622,
+    "input": "1234567890",
+    "passed": true,
+    "showText": true,
+    "type": "ITF"
+  },
+  {
+    "fuel": 841392,
+    "input": "1234567890",
+    "passed": true,
+    "showText": false,
+    "type": "ITF"
+  },
+  {
+    "fuel": 7113912,
+    "input": "1001234500001",
+    "passed": true,
+    "showText": true,
+    "type": "ITF-14"
+  },
+  {
+    "fuel": 1095494,
+    "input": "1001234500001",
+    "passed": true,
+    "showText": false,
+    "type": "ITF-14"
+  },
+  {
+    "fuel": 7109103,
+    "input": "10012345000017",
+    "passed": true,
+    "showText": true,
+    "type": "ITF-14"
+  },
+  {
+    "fuel": 1095853,
+    "input": "10012345000017",
+    "passed": true,
+    "showText": false,
+    "type": "ITF-14"
+  },
+  {
+    "fuel": 2959269,
+    "input": "12345",
+    "passed": true,
+    "showText": true,
+    "type": "Codabar"
+  },
+  {
+    "fuel": 766265,
+    "input": "12345",
+    "passed": true,
+    "showText": false,
+    "type": "Codabar"
+  },
+  {
+    "fuel": 3824311,
+    "input": "B12345D",
+    "passed": true,
+    "showText": true,
+    "type": "Codabar"
+  },
+  {
+    "fuel": 764103,
+    "input": "B12345D",
+    "passed": true,
+    "showText": false,
+    "type": "Codabar"
+  },
+  {
+    "fuel": 10131200,
+    "input": "12-34$56:78/90.12+34",
+    "passed": true,
+    "showText": true,
+    "type": "Codabar"
+  },
+  {
+    "fuel": 1907261,
+    "input": "12-34$56:78/90.12+34",
+    "passed": true,
+    "showText": false,
+    "type": "Codabar"
+  },
+  {
+    "fuel": 7860091,
+    "input": "978030640615",
+    "passed": true,
+    "showText": true,
+    "type": "ISBN-13"
+  },
+  {
+    "fuel": 853285,
+    "input": "978030640615",
+    "passed": true,
+    "showText": false,
+    "type": "ISBN-13"
+  },
+  {
+    "fuel": 87922970,
+    "input": "88888888888888888888888888888888888888888888888888888888888888888888888888888888",
+    "passed": true,
+    "showText": true,
+    "type": "Code 128"
+  },
+  {
+    "fuel": 17182709,
+    "input": "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
+    "passed": true,
+    "showText": true,
+    "type": "Code 128"
+  },
+  {
+    "fuel": 96831945,
+    "input": "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%",
+    "passed": true,
+    "showText": true,
+    "type": "Code 128"
+  },
+  {
+    "fuel": 93149756,
+    "input": "88888888888888888888888888888888888888888888888888888888888888888888888888888888",
+    "passed": true,
+    "showText": true,
+    "type": "Code 39"
+  },
+  {
+    "fuel": 19679813,
+    "input": "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
+    "passed": true,
+    "showText": true,
+    "type": "Code 39"
+  },
+  {
+    "fuel": 99661258,
+    "input": "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%",
+    "passed": true,
+    "showText": true,
+    "type": "Code 39"
+  },
+  {
+    "fuel": 90217612,
+    "input": "88888888888888888888888888888888888888888888888888888888888888888888888888888888",
+    "passed": true,
+    "showText": true,
+    "type": "Code 93"
+  },
+  {
+    "fuel": 16679071,
+    "input": "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
+    "passed": true,
+    "showText": true,
+    "type": "Code 93"
+  },
+  {
+    "fuel": 96561510,
+    "input": "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%",
+    "passed": true,
+    "showText": true,
+    "type": "Code 93"
+  },
+  {
+    "fuel": 106837821,
+    "input": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+    "passed": true,
+    "showText": true,
+    "type": "Code 128"
+  },
+  {
+    "fuel": 96723885,
+    "input": "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%",
+    "passed": true,
+    "showText": true,
+    "type": "Code 128"
+  }
+]
